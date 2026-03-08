@@ -125,7 +125,7 @@ Author (1) ---- (N) Book
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/literalura.git
+git clone https://github.com/your-username/literalura-java.git
 ```
 
 2. Configure your PostgreSQL database in `application.properties`.
